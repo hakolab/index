@@ -23,6 +23,7 @@ const useStyles = makeStyles(theme => ({
       width: "50%"
     },
     margin: "auto",
+    cursor: "pointer",
   },
   welcome: {
     [theme.breakpoints.down('xs')]: {
