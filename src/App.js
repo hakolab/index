@@ -202,7 +202,7 @@ export default function App(){
                   Programming
                 </Box>
                 <Box className={classNames(classes.subColor, classes.description)}>
-                  Java, Javascript, React.js, VBA  
+                  Java, Javascript, React.js, VBA
                 </Box>
                 <Box className={classNames(classes.subColor, classes.description)}>
                   フリーランスとして、企業の新人研修でJavaの指導経験あり
@@ -214,7 +214,8 @@ export default function App(){
                   Music
                 </Box>
                 <Box className={classNames(classes.subColor, classes.description)}>
-                  歌謡曲などの室内楽アレンジ
+                  器楽曲の作編曲、歌謡曲やポップスなどの室内楽アレンジ
+                  一般吹奏楽団のための編曲経験あり
                 </Box>
               </Typography>
             </Grid>
