@@ -64,3 +64,9 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# bundle files
+public/bundle*
+
+# profile images
+static/image/profile*
