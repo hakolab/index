@@ -126,7 +126,7 @@ export default function App(){
     <Grid container direction="column" justify="center" alignItems="center">
       <Grid item>
         <Box className={classes.pageTitle} textAlign="center">
-            <img src={TitleImage} width="100%" onClick={() => window.location.href = "https://hakodatetaro.com/"}/>
+            <img src={TitleImage} width="100%" onClick={() => window.location.href = "https://hakoratory.com/"}/>
           <Divider variant="middle"/>
         </Box>
       </Grid>
@@ -141,7 +141,7 @@ export default function App(){
             </Link>
           </Box>
           <Box my={10} className={classes.pointer} textAlign="center">
-            <img src={MenuHakoratoryImage} width="50%" onClick={() => window.location.href = "https://laboratory.hakodatetaro.com/"}/>
+            <img src={MenuHakoratoryImage} width="50%" onClick={() => window.location.href = "https://lab.hakoratory.com/"}/>
           </Box>
         </Route>
         <Route path="/profile">
